@@ -3,7 +3,7 @@
 # header
 ## subheader
 
-[google](google.com)
+[google](https://www.google.com)
 
 - item 1
 - item 2
